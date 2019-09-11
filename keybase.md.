@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am frankgoncalves17 on github.
+  * I am frankgoncalves (https://keybase.io/frankgoncalves) on keybase.
+  * I have a public key ASACJAakMNKTkaIc3ztBHCTdokpx9v9dtwqNveRRIAXJUwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207572e3a3a727d97fce3b9c9668ee7f8d680816f84467f3544d826014f98703810a",
+      "host": "keybase.io",
+      "kid": "0120022406a430d29391a21cdf3b411c24dda24a71f6ff5db70a8dbde4512005c9530a",
+      "uid": "73d3342f8db141239a2dbb3f674ba819",
+      "username": "frankgoncalves"
+    },
+    "merkle_root": {
+      "ctime": 1568219426,
+      "hash": "e6acd2554bf7d1e4631e2b212bcd0f5e1e95860e6009725a6b186778955fcfc6b417a317eb2421153b2374279143deddb08fab89a451cfa75ca4dc12cb172492",
+      "hash_meta": "2445d6550c3c789f79a6be649c624146019627bf40e97e38f2e11189134fa5af",
+      "seqno": 6761196
+    },
+    "service": {
+      "entropy": "6bT5LZO9DlZwEI+xvCuqG8YA",
+      "name": "github",
+      "username": "frankgoncalves17"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568219448,
+  "expire_in": 504576000,
+  "prev": "ad12c30470f545180b3f12d3b75a48a14b3d371196001abec2e8d68521205449",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASACJAakMNKTkaIc3ztBHCTdokpx9v9dtwqNveRRIAXJUwo](https://keybase.io/frankgoncalves), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAiQGpDDSk5GiHN87QRwk3aJKcfb/XbcKjb3kUSAFyVMKp3BheWxvYWTESpcCC8QgrRLDBHD1RRgLPxLTt1pIoUs9NxGWABq+wujWhSEgVEnEINgQ7Qh689xFwYhxGMKser0NjQCxn9eQ7AVypf07lwLAAgHCo3NpZ8RAB5ahAoLu5qcjyU14IHCrqwq3BH4uI+MKt/m+JCp/pkXkBXGQgfm8LsIninVhw+X9bw05IJu6dkUrKMlrbsuHC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJgk+RQmpS8JIthUX2wQIZ7OYUsERdhZeoyTiX6GMM2xo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/frankgoncalves
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id frankgoncalves
+```
